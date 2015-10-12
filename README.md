@@ -6,7 +6,7 @@ A Tool for Efficient Verification of UML/OCL Class Diagrams Through Model Slicin
 This repository contains information related to the tool UMLtoCSP(UOST) presented at Foundations of Software Engineering, 2012. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2393596.2393639&coll=DL&dl=GUIDE&CFID=544907474&CFTOKEN=96283854).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
-* [The Official Project Page, including source code](http://asadshaikh.com/UMLtoCSP_UOST/)
+* [The Official Project Page](http://asadshaikh.com/UMLtoCSP_UOST/)
 
 In this repository, for UMLtoCSP(UOST) you will find:
 * :x: Source code (not available)
