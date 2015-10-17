@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UMLtoCSP options</comment>
+<entry key="dot.directory">C:\Program Files (x86)\ATT\Graphviz\bin</entry>
+<entry key="eclipse.directory">C:\Program Files\ECLiPSe 6.1</entry>
+<entry key="umltocsp.language">en</entry>
+<entry key="umltocsp.lastpath">D:\Shrenuj</entry>
+</properties>

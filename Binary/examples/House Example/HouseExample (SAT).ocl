@@ -1,0 +1,16 @@
+package asad
+
+
+context Mortgage
+inv limitmortgage: 
+Mortgage::allInstances()->forAll(self.startdate<self.enddate)
+
+
+context Person
+inv differentnic: Person::allInstances()->isUnique(x|x.nicID)
+
+
+
+endpackage
+
+

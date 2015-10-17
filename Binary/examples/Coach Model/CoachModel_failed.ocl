@@ -1,0 +1,31 @@
+package coach
+
+
+
+context Coach
+inv MinCoachSize:
+Coach::allInstances()->forAll(a|a.noOfSeats>10)
+
+context Trip
+inv idUnique:
+Trip::allInstances()->isUnique(a|a.id)
+
+
+context Person
+inv PersonSize:
+Person::allInstances()->size()=1
+
+context Person
+inv PersonsTicket:
+Person::allInstances()->isUnique (t|t.tickets.number)
+
+
+context Department
+inv DeptartmentSize: Department::allInstances()->size()= 7
+
+context Department
+inv DeptNum:
+Department::allInstances()->forAll(b|b.number>1)
+
+
+endpackage
