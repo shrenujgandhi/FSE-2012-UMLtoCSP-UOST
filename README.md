@@ -7,6 +7,7 @@ This repository contains information related to the tool UMLtoCSP(UOST) presente
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Official Project Page](http://asadshaikh.com/UMLtoCSP_UOST/)
+* [The Official Download Page](http://asadshaikh.com/UMLtoCSP_UOST/download.html)
 
 In this repository, for UMLtoCSP(UOST) you will find:
 * :x: Source code (not available)
