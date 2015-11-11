@@ -32,7 +32,7 @@ cd uost
 vagrant box add rifung/win7_32
 vagrant init rifung/win7_32
 ```
-* Add contents of this folder
+* Add contents of this build-vm folder to newly created uost folder
 * Run the command vagrant up from the same directory
 ```
 vagrant up
