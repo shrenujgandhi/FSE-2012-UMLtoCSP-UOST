@@ -11,7 +11,7 @@ In this folder, you will find:
 Environment
 -----
 The virtual machine is a Windows 7 operating system.
-Box name : modernIE/w7-ie11
+Box name : rifung/win7_32
 
 Pre-requisite for the tools
 -----
@@ -23,9 +23,10 @@ This folder contains scripts to install:
 Building Virtual Machine
 -----
 The following steps are required to build the virtual machine
-* Install Virtual Box
-* Install Vagrant
+* Install Virtual Box from [download section](https://www.virtualbox.org/wiki/Downloads)
+* Install Vagrant [download section](https://www.vagrantup.com/)
 * Create a directory to download new vagrant machine
+  Markup :  vagrant box add rifung/win7_32
 * Type the command
 * Add the files Vagrantfile, and folder shell
 * Run the command vagrant up
