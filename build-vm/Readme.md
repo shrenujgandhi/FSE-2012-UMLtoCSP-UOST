@@ -4,7 +4,7 @@ In this folder, you will find:
 * Vagrantfile
 * vagrant-windows.rb
 * shell
-** install chocolatey
+* *install chocolatey
 ** install jre.cmd
 
 Environment
