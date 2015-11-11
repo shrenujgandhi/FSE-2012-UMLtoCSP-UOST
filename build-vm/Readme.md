@@ -2,18 +2,20 @@ This folder contains information related to the building of virtual machine for 
 
 In this folder, you will find:
 * Vagrantfile
-* vagrant-windows.rb
-* shell
-* * install chocolatey
-* * install jre.cmd
-
+* vagrant-provision-reboot-plugin
+* shell folder
+  * install_chocolatey.cmd
+  * InstallChocolatey.ps1
+  * install_jre.cmd.bat
+  
 Environment
 -----
 The virtual machine is a Windows 7 operating system.
+Box name : modernIE/w7-ie11
 
 Pre-requisite for the tools
 -----
-This folder contains scripts to install 
+This folder contains scripts to install: 
 * :white_check_mark: JRE version 1.8.0_60  
 * :x: ECLiPSe Constraint Programming System
 * :x: Graphviz Visualization Package tool
