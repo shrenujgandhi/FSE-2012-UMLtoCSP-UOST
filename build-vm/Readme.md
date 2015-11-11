@@ -24,10 +24,10 @@ Building Virtual Machine
 -----
 The following steps are required to build the virtual machine
 * Install Virtual Box from [download section](https://www.virtualbox.org/wiki/Downloads)
-* Install Vagrant [download section](https://www.vagrantup.com/)
+* Install Vagrant from [download section](https://www.vagrantup.com/)
 * Create a directory to download new vagrant machine
 
- vagrant box add rifung/win7_32
+   vagrant box add rifung/win7_32
 
 * Type the command
 * Add the files Vagrantfile, and folder shell
