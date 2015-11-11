@@ -7,7 +7,7 @@ In this folder, you will find:
   * install_chocolatey.cmd
   * InstallChocolatey.ps1
   * install_jre.cmd.bat
-  
+ 
 Environment
 -----
 The virtual machine is a Windows 7 operating system.
@@ -26,9 +26,9 @@ The following steps are required to build the virtual machine
 * Install Virtual Box from [download section](https://www.virtualbox.org/wiki/Downloads)
 * Install Vagrant from [download section](https://www.vagrantup.com/)
 * Create a directory to download new vagrant machine
-
-   vagrant box add rifung/win7_32
-
+```
+vagrant box add rifung/win7_32
+```
 * Type the command
 * Add the files Vagrantfile, and folder shell
 * Run the command vagrant up
