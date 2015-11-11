@@ -27,11 +27,16 @@ The following steps are required to build the virtual machine
 * Install Vagrant from [download section](https://www.vagrantup.com/)
 * Create a directory to download new vagrant machine
 ```
+mkdir uost
+cd uost
 vagrant box add rifung/win7_32
+vagrant init rifung/win7_32
 ```
-* Type the command
-* Add the files Vagrantfile, and folder shell
-* Run the command vagrant up
+* Add contents of this folder
+* Run the command vagrant up from the same directory
+```
+vagrant up
+```
 
 External Sources
 ------
