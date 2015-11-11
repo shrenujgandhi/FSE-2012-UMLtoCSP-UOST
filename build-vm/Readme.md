@@ -23,11 +23,11 @@ The following steps are required to build the virtual machine
 
 External Sources
 ------
-1. [Vagrant Website](https://www.vagrantup.com/)
-2. Vagrantfile [Documentation](https://docs.vagrantup.com/v2/vagrantfile/index.html)
-3. Provision [Documentation](https://docs.vagrantup.com/v2/provisioning/index.html)
-4. Vagrant [Windows Box](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
-5. Running Virtualbox and Vagrant on Windows [Youtube Video](https://www.youtube.com/watch?v=Jkf5g7L9dSE)
-6. Puppet on Windows: Now You're Getting Chocolatey! - PuppetConf 2013 [Youtube Video](https://www.youtube.com/watch?v=Im30wziOrBs)
-7. Easy Virtual Machine Management [Article] (http://digitaldrummerj.me//vagrant-overview/)
-8. WinRb/vagrant-windows [repository](https://github.com/WinRb/vagrant-windows)
+* Vagrant [Official Website](https://www.vagrantup.com/)
+* Vagrantfile [Documentation](https://docs.vagrantup.com/v2/vagrantfile/index.html)
+* Provision [Documentation](https://docs.vagrantup.com/v2/provisioning/index.html)
+* Vagrant [Windows Box](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
+* Running Virtualbox and Vagrant on Windows [Youtube Video](https://www.youtube.com/watch?v=Jkf5g7L9dSE)
+* Puppet on Windows: Now You're Getting Chocolatey! - PuppetConf 2013 [Youtube Video](https://www.youtube.com/watch?v=Im30wziOrBs)
+* Easy Virtual Machine Management [Article] (http://digitaldrummerj.me//vagrant-overview/)
+* WinRb/vagrant-windows [repository](https://github.com/WinRb/vagrant-windows)
