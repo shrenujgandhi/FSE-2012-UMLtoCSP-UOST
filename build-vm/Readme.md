@@ -40,11 +40,11 @@ vagrant up
 
 External Sources
 ------
-* Vagrant [Official Website](https://www.vagrantup.com/)
-* Vagrantfile [Documentation](https://docs.vagrantup.com/v2/vagrantfile/index.html)
-* Provision [Documentation](https://docs.vagrantup.com/v2/provisioning/index.html)
-* Vagrant [Windows Box](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
-* Running Virtualbox and Vagrant on Windows [Youtube Video](https://www.youtube.com/watch?v=Jkf5g7L9dSE)
-* Puppet on Windows: Now You're Getting Chocolatey! - PuppetConf 2013 [Youtube Video](https://www.youtube.com/watch?v=Im30wziOrBs)
-* Easy Virtual Machine Management [Article] (http://digitaldrummerj.me//vagrant-overview/)
+* [Official website](https://www.vagrantup.com/) of Vagrant
+* [Documentation](https://docs.vagrantup.com/v2/vagrantfile/index.html) on Vagrantfile 
+* [Documentation](https://docs.vagrantup.com/v2/provisioning/index.html) on Provision
+* Vagrant [Windows Box](https://atlas.hashicorp.com/rifung/boxes/win7_32)
+* [Youtube video](https://www.youtube.com/watch?v=Jkf5g7L9dSE) on Running Virtualbox and Vagrant on Windows
+* [Youtube video](https://www.youtube.com/watch?v=Im30wziOrBs) on Puppet on Windows: Now You're Getting Chocolatey! - PuppetConf 2013 
+* [Article](http://digitaldrummerj.me//vagrant-overview/) on Easy Virtual Machine Management 
 * WinRb/vagrant-windows [repository](https://github.com/WinRb/vagrant-windows)
