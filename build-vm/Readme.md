@@ -1,5 +1,12 @@
 This folder contains information related to the building of virtual machine for the tool UMLtoCSP(UOST) using Vagrant.
 
+In this folder, you will find:
+* Vagrantfile
+* vagrant-windows.rb
+* shell
+** install chocolatey
+** install jre.cmd
+
 Environment
 -----
 The virtual machine is a Windows 7 operating system.
