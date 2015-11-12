@@ -39,7 +39,7 @@ The following steps are required to build the virtual machine
 \uost> git init
 \uost> git remote add origin https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST.git
 \uost> git config core.sparsecheckout true
-\uost> echo build->vm/*> .git/info/sparse-checkout
+\uost> echo build-vm/*> .git/info/sparse-checkout
 \uost> git pull origin master
 ```
 * Run the command vagrant up from the same directory
