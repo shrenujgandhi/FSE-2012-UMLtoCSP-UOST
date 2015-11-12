@@ -4,8 +4,7 @@ In this folder, you will find:
 * Vagrantfile
 * vagrant-provision-reboot-plugin
 * ShellScript folder
-  * install_chocolatey.cmd - command to install chocolatey
-  * InstallChocolatey.ps1
+  * install_chocolatey.bat - command to install chocolatey
   * install_jre.cmd.bat - command to install jre1.8.0_65
  
 Environment
