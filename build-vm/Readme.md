@@ -31,7 +31,7 @@ The following steps are required to build the virtual machine
 \> mkdir uost
 \> cd uost
 \uost> vagrant box add rifung/win7_32
-\uost> vagrant init
+\uost> vagrant init rifung/win7_32
 ```
 * Add contents of this build-vm folder to newly created uost folder
 ```
