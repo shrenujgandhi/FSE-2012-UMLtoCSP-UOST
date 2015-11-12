@@ -33,6 +33,14 @@ The following steps are required to build the virtual machine
 > vagrant init rifung/win7_32
 ```
 * Add contents of this build-vm folder to newly created uost folder
+```
+> mkdir folder
+> git init
+> git remote add origin https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST.git
+> git config core.sparsecheckout true
+> echo build->vm/*> .git/info/sparse-checkout
+> git pull origin master
+```
 * Run the command vagrant up from the same directory
 ```
 > vagrant up
