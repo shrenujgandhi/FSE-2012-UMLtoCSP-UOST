@@ -26,25 +26,25 @@ Building Virtual Machine
 The following steps are required to build the virtual machine
 * Install Virtual Box from [download section](https://www.virtualbox.org/wiki/Downloads)
 * Install Vagrant from [download section](https://www.vagrantup.com/)
+* Install Git [download link](https://git-scm.com/downloads)
 * Create a directory to download new vagrant machine
 ```
-> mkdir uost
-> cd uost
-> vagrant box add rifung/win7_32
-> vagrant init
+\> mkdir uost
+\> cd uost
+\uost> vagrant box add rifung/win7_32
+\uost> vagrant init
 ```
 * Add contents of this build-vm folder to newly created uost folder
 ```
-> mkdir folder
-> git init
-> git remote add origin https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST.git
-> git config core.sparsecheckout true
-> echo build->vm/*> .git/info/sparse-checkout
-> git pull origin master
+\uost> git init
+\uost> git remote add origin https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST.git
+\uost> git config core.sparsecheckout true
+\uost> echo build->vm/*> .git/info/sparse-checkout
+\uost> git pull origin master
 ```
 * Run the command vagrant up from the same directory
 ```
-> vagrant up
+\uost> vagrant up
 ```
 
 External Sources
