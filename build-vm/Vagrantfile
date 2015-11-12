@@ -73,9 +73,9 @@ Vagrant.configure(2) do |config|
 
   config.vm.communicator = "winrm"
 
-  config.vm.provision :shell, path: "ShellScript/install_chocolatey.cmd"
+  config.vm.provision :shell, path: "ShellScript/install_chocolatey.bat"
 
-  config.vm.provision :shell, path: "ShellScript/install_eclipse.cmd"   
+  config.vm.provision :shell, path: "ShellScript/install_jre.bat"   
 
   config.vm.provision :windows_reboot
 
