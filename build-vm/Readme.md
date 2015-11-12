@@ -3,14 +3,14 @@ This folder contains information files to the building of virtual machine for th
 In this folder, you will find:
 * Vagrantfile
 * vagrant-provision-reboot-plugin
-* shell folder
-  * install_chocolatey.cmd
+* ShellScript folder
+  * install_chocolatey.cmd - command to install chocolatey
   * InstallChocolatey.ps1
-  * install_jre.cmd.bat
+  * install_jre.cmd.bat - command to install jre1.8.0_65
  
 Environment
 -----
-The virtual machine is a Windows 7 operating system.
+The virtual machine is a Windows 7 32 bit operating system.
 Box name : rifung/win7_32
 
 Pre-requisite for the tools
