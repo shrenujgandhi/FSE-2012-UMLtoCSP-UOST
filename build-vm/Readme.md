@@ -57,3 +57,4 @@ External Sources
 * [Youtube video](https://www.youtube.com/watch?v=Im30wziOrBs) on Puppet on Windows: Now You're Getting Chocolatey! - PuppetConf 2013 
 * [Article](http://digitaldrummerj.me//vagrant-overview/) on Easy Virtual Machine Management 
 * WinRb/vagrant-windows [repository](https://github.com/WinRb/vagrant-windows)
+* vagrant-provision-reboot [repository](https://github.com/exratione/vagrant-provision-reboot)
