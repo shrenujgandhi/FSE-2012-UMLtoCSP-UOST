@@ -52,6 +52,7 @@ External Sources
 * [Official website](https://www.vagrantup.com/) of Vagrant
 * [Documentation](https://docs.vagrantup.com/v2/vagrantfile/index.html) on Vagrantfile 
 * [Documentation](https://docs.vagrantup.com/v2/provisioning/index.html) on Provision
+* [Official website](https://chocolatey.org/) of Chocolatey
 * Vagrant [Windows Box](https://atlas.hashicorp.com/rifung/boxes/win7_32)
 * [Youtube video](https://www.youtube.com/watch?v=Jkf5g7L9dSE) on Running Virtualbox and Vagrant on Windows
 * [Youtube video](https://www.youtube.com/watch?v=Im30wziOrBs) on Puppet on Windows: Now You're Getting Chocolatey! - PuppetConf 2013 
