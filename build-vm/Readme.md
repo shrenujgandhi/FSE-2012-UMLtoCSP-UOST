@@ -41,7 +41,7 @@ The following steps are required to build the virtual machine
 \uost> echo build-vm/*> .git/info/sparse-checkout
 \uost> git pull origin master
 ```
-* Copy-paste the files in the build-vm folder to uost folder (replacing Vagrantfile)
+* Copy-paste the files in the build-vm folder to uost folder (also replace Vagrantfile)
 * Run the command vagrant up from the same directory
 ```
 \uost> vagrant up
