@@ -10,7 +10,7 @@ In this folder, you will find:
   * complete_installations.bat - command to delete unwanted file
   * ECLiPSe.au3 - script to install eclipseclp and graphviz
   * mkshortcut.vbs - script to create shortcut in windows
- * Files folder
+* Files folder
   * 1. Installation.txt - instructions to install toll manually
   * 2. Readme.txt - instructions to run tool
   * 3. YoutTube link - Tool Demo - demo on how to run the tool in VM
