@@ -49,9 +49,12 @@ External Sources
 * [Documentation](https://docs.vagrantup.com/v2/vagrantfile/index.html) on Vagrantfile 
 * [Documentation](https://docs.vagrantup.com/v2/provisioning/index.html) on Provision
 * [Official website](https://chocolatey.org/) of Chocolatey
+* Chocolatey [packages](https://chocolatey.org/packages)
 * Vagrant [Windows Box](https://atlas.hashicorp.com/rifung/boxes/win7_32)
 * [Youtube video](https://www.youtube.com/watch?v=Jkf5g7L9dSE) on Running Virtualbox and Vagrant on Windows
 * [Youtube video](https://www.youtube.com/watch?v=Im30wziOrBs) on Puppet on Windows: Now You're Getting Chocolatey! - PuppetConf 2013 
 * [Article](http://digitaldrummerj.me//vagrant-overview/) on Easy Virtual Machine Management 
 * WinRb/vagrant-windows [repository](https://github.com/WinRb/vagrant-windows)
 * vagrant-provision-reboot [repository](https://github.com/exratione/vagrant-provision-reboot)
+* [Video Tutorials](https://www.youtube.com/watch?v=uz3bnrUKhW8&index=1&list=PLNpExbvcyUkOJvgxtCPcKsuMTk9XwoWum) on AutoIt Scripting 
+* [Article](http://www.giannistsakiris.com/2008/12/03/how-to-create-shortcuts-in-windows-from-the-command-line/) on How to create Shortcuts in Windows from the command line
