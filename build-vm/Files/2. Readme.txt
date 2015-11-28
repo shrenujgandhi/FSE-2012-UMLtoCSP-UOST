@@ -1,0 +1,45 @@
+ 
+ README
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ This file contains information about
+ * Running UMLtoCSP (UOST)
+ * Installation.txt
+ * YouTube Link.url
+ * License.txt
+
+
+ Running UMLtoCSP (UOST)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ To open UMLtoCSP (UOST) tool
+ * Click on UMLtoCSP folder on desktop. Again click on umptocsp folder. Double-click on UMLtoCSP Batch File to run the tool.
+   OR
+ * Click on ULMtoCSP Shortcut on the Desktop
+ 
+
+ To use the tool
+ 
+ Step 1: If you have installed the tool and are running it for the first time click "Configure" from the taskbar. For this machine the Eclipse Path is "C:\Program Files\ECLiPSe 5.10" and Graphviz dot Path is "C:\Program Files\ATT\Graphviz\bin". 
+ Step 2: Select "Open Model" icon from the taskbar. Search and open the .xmi file which contain the XML class diagram. Also search and open the .ocl file which contains the constraints.
+ Step 3: Click "Accept" to load the model.
+ Step 4: Check the properties you need to test after clicking on the "Properties" button.
+ Step 5: Click on "Translate" icon on the taskbar to translate the class diagram to CSP language. If a valid instance of the class exists then its object diagram can be generated.
+ Step 6: Finally click on the "ECLiPSe" icon to view the objects generated. 
+
+ 
+
+ Installation.txt
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This file gives instructions on how to set up the environment for UMLtoCSP (UOST) and how to install the tool.
+
+ 
+ YouTube Link.url
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This contains link to the YouTube video on how to run the tool in the VM.
+
+ 
+ License.txt
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This file contains license agreements for Oracle Java SE, ECLiPSe, Graphviz, chocolatey, and autoIT

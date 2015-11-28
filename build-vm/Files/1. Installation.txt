@@ -1,0 +1,51 @@
+  
+ INSTALLATION
+
+
+ Installing Java
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ UOST requires Java 1.5 or above. Download Java from Oracle Java Download. Link to Oracle Java downloads is:
+ http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+
+ Installing ECLiPSe
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Go to Download section on UOST homepage
+
+ OR
+
+ Requires ECLiPSe v5.10. 
+ * Go to ECLiPSe homepage 
+   http://eclipseclp.org/
+ * Select download from the left hand side menu
+ * Select the link "Download from ECLiPSe-CLP Home"
+ * Select "Old/" from the file structure
+ * Select "5.10_147/"
+ * Select "i386_nt/" for windows 32-bit OS
+ * Download "ECLiPSe5.10_147.exe"
+
+
+ Installing Graphviz
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ECLiPSe installation also contains Graphviz package. Regular installation will also set up Graphviz. 
+
+ OR (in case of manual installation - option 1)
+
+ Go to Download section on UOST homepage.
+
+ OR (in case of manual installation - option 2)
+
+ * Go to Graphviz homepage:
+   http://www.graphviz.org/
+ * Select Download in the right side menu
+ * Accept license and select windows from the download section.
+ * Download "graphviz-2.38.msi"
+ The .msi file is present in the "Downloads" folder. Run the complete regular installation.
+
+
+ Installing UMLtoCSP(UOST)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Go to UOST homepage:
+ http://asadshaikh.com/UMLtoCSP_UOST/
+
+ Under the download section, download the rar file.
