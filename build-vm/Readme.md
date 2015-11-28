@@ -4,8 +4,10 @@ In this folder, you will find:
 * Vagrantfile
 * vagrant-provision-reboot-plugin
 * ShellScript folder
-  * install_chocolatey.bat - command to install chocolatey
-  * install_jre.cmd.bat - command to install jre1.8.0_65 using chocolatey
+  * install_chocolatey.bat     - command to install chocolatey
+  * install_software.bat       - commands to install softwares using chocolatey
+  * install_tool.bat           - commands to setup uUMLtoCSP(UOST) 
+  * complete_installations.bat - commands to delete unwanted file
  
 Environment
 -----
