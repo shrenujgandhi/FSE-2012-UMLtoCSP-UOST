@@ -5,6 +5,8 @@ Environment
 The virtual machine is a Windows 7 32 bit operating system.
 
 Box name : rifung/win7_32
+Username : Administrator
+Password : vagrant
 
 Pre-requisite for the tools
 -----
