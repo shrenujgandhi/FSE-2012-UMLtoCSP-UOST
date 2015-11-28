@@ -54,3 +54,4 @@ External Sources
 * vagrant-provision-reboot [repository](https://github.com/exratione/vagrant-provision-reboot)
 * [Video Tutorials](https://www.youtube.com/watch?v=uz3bnrUKhW8&index=1&list=PLNpExbvcyUkOJvgxtCPcKsuMTk9XwoWum) on AutoIt Scripting 
 * [Article](http://www.giannistsakiris.com/2008/12/03/how-to-create-shortcuts-in-windows-from-the-command-line/) on How to create Shortcuts in Windows from the command line
+* Vagrant-LinuxDesktop [repository](https://github.com/vDevices/Vagrant-LinuxDesktop/blob/master/Vagrantfile) to customize VM 
