@@ -1,20 +1,4 @@
 This folder contains information files to the building of virtual machine for the tool UMLtoCSP(UOST) using Vagrant.
-
-In this folder, you will find:
-* Vagrantfile
-* vagrant-provision-reboot-plugin
-* ShellScript folder
-  * install_chocolatey.bat - command to install chocolatey
-  * install_software.bat - commands to install softwares using chocolatey
-  * install_tool.bat - commands to setup UMLtoCSP(UOST)
-  * complete_installations.bat - command to delete unwanted file
-  * ECLiPSe.au3 - script to install eclipseclp and graphviz
-  * mkshortcut.vbs - script to create shortcut in windows
-* Files folder
-  * 1. Installation.txt - instructions to install toll manually
-  * 2. Readme.txt - instructions to run tool
-  * 3. YoutTube link - Tool Demo - demo on how to run the tool in VM
-  * 4. License.txt - software licenses of tools in VM
  
 Environment
 -----
