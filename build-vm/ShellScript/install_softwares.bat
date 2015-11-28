@@ -12,8 +12,6 @@ echo %path%
 
 chocolatey feature disable -n=allowGlobalConfirmation
 
-del "C:\Users\Public\Desktop\Mozilla Firefox.lnk"
-
 mkdir "C:\UOST"
 cd "C:\UOST"
 @powershell "((new-object net.webclient).DownloadFile('http://eclipseclp.org/Distribution/Old/5.10_147/i386_nt/ECLiPSe5.10_147.exe','C:\UOST\ECLiPSe5.10_147.exe'))"
