@@ -42,4 +42,4 @@ This contains link to the YouTube video on how to run the tool in the VM.
  
  License.txt
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This file contains license agreements for Oracle Java SE, ECLiPSe, Graphviz, chocolatey, and autoIT
+This file contains license agreements for Oracle Java SE, ECLiPSe, Graphviz, chocolatey, mozilla firefox and autoIT
