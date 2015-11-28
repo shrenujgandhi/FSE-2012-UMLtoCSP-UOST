@@ -56,7 +56,7 @@ External Sources
 ------
 * [Official website](https://www.vagrantup.com/) of Vagrant
 * [Documentation](https://docs.vagrantup.com/v2/vagrantfile/index.html) on Vagrantfile 
-* [Documentation](https://docs.vagrantup.com/v2/provisioning/index.html) on Provision
+* [Documentation](https://docs.vagrantup.com/v2/provisioning/shell.html) on Shell Provision
 * [Official website](https://chocolatey.org/) of Chocolatey
 * Chocolatey [packages](https://chocolatey.org/packages)
 * Vagrant [Windows Box](https://atlas.hashicorp.com/rifung/boxes/win7_32)
