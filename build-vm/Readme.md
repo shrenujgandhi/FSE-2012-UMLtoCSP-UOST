@@ -17,8 +17,8 @@ Pre-requisite for the tools
 -----
 This folder contains scripts to install: 
 * :white_check_mark: JRE version 1.8.0_60  
-* :x: ECLiPSe Constraint Programming System
-* :x: Graphviz Visualization Package tool
+* :white_check_mark: ECLiPSe Constraint Programming System
+* :white_check_mark: Graphviz Visualization Package tool
 
 Steps to Build Virtual Machine
 -----
