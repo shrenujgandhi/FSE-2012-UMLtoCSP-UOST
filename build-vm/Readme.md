@@ -2,13 +2,12 @@ This folder contains files and scripts to build a virtual machine for the tool U
  
 Environment
 -----
-The virtual machine is a Windows 7 32 bit operating system.
+The virtual machine has :
 
-Box name : rifung/win7_32
-
-Username : Administrator
-
-Password : vagrant
+* Operating System : Windows 7 32 bit
+* Box name : rifung/win7_32
+* Username : Administrator
+* Password : vagrant
 
 Pre-requisite for the tools
 -----
