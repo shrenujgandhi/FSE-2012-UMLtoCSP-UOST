@@ -20,7 +20,7 @@ This folder contains scripts to install:
 * :x: ECLiPSe Constraint Programming System
 * :x: Graphviz Visualization Package tool
 
-Building Virtual Machine
+Steps to Build Virtual Machine
 -----
 The following steps are required to build the virtual machine
 * Install Virtual Box from [download section](https://www.virtualbox.org/wiki/Downloads)
