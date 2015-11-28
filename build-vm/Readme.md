@@ -1,4 +1,4 @@
-This folder contains information files to the building of virtual machine for the tool UMLtoCSP(UOST) using Vagrant.
+This folder contains files and scripts to build a virtual machine for the tool UMLtoCSP(UOST) using Vagrant.
  
 Environment
 -----
