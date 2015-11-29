@@ -16,6 +16,12 @@ Vagrant.configure(2) do |config|
     # Display the VirtualBox GUI when booting the machine
     vb.gui = true
   
+    # Disable USB 
+    vb.customize ["modifyvm", :id, "--usb", "off","--usbehci", "off"] 
+
+    # Enable Audio
+    vb.customize ["modifyvm", :id, "--audio", "dsound", "--audiocontroller", "hda"]
+
     # Customize the amount of memory on the VM:
     vb.memory = "1024"
   end
