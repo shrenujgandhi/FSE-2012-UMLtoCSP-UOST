@@ -15,7 +15,8 @@ This folder contains scripts to install:
 * :white_check_mark: JRE version 1.8.0_60  
 * :white_check_mark: ECLiPSe Constraint Programming System
 * :white_check_mark: Graphviz Visualization Package tool
-
+* :white_check_mark: ULMtoCSP(UOST)
+* 
 Steps to Build Virtual Machine
 -----
 The following steps are required to build the virtual machine
