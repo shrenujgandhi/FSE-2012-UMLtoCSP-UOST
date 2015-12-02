@@ -12,6 +12,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 In this repository, for UMLtoCSP(UOST) you will find:
 * :x: Source code (not available)
 * :white_check_mark: [Binary](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST/tree/master/Binary) (available)
-* :white_check_mark: [build-vm](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST/tree/master/build-vm) folder which contains Vargrant script to load the tool in a Windows Virtual Machine  
+* :white_check_mark: [build-vm](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-UMLtoCSP-UOST/tree/master/build-vm) folder which contains Vargrant script to load the tool in a Windows Virtual Machine 
+* :white_check_mark: [Virtual Machine containing tool](https://drive.google.com/open?id=0B9erCuXnrQQrWkkzVm9jWkpzVWc)
 
 This repository was constructed by [Sumeet Agarwal](https://github.com/sumeet29),  [Vineela Boddula](https://github.com/boddulavineela), [Sarah Elder](https://github.com/seelder), [Shrenuj Gandhi](https://github.com/shrenujgandhi) and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Dr. Asadullah Shaikh](http://www.asadshaikh.com/) and [Dr. Uffe Kock Wiil](http://websrv0a.sdu.dk/ukwiil/) for their help in establishing this repository.
