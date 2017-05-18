@@ -1,3 +1,6 @@
+[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/Course%20Project.png" width="150">](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor)
+[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/SE.png" width="270" height="27">](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor)
+
 # FSE-2012-UMLtoCSP-UOST
 A Tool for Efficient Verification of UML/OCL Class Diagrams Through Model Slicing.
 
