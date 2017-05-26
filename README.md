@@ -1,5 +1,5 @@
-[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/Course%20Project.png" width="150">](https://github.com/shrenujgandhi/UOST-Portable-Development-Environment/tree/master/build-vm)
-[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/SE.png" width="200" height="27">](https://github.com/shrenujgandhi/UOST-Portable-Development-Environment/tree/master/build-vm)
+[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/AP.png" width="150">](https://github.com/shrenujgandhi/UOST-Portable-Development-Environment/tree/master/build-vm)
+[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/SE.png" width="200">](https://github.com/shrenujgandhi/UOST-Portable-Development-Environment/tree/master/build-vm)
 
 # UOST Portable Development Environment
 A Tool for Efficient Verification of UML/OCL Class Diagrams Through Model Slicing.
